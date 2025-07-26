@@ -44,6 +44,7 @@
 ![Mobin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mobin-Thz&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mobin-Thz&layout=compact&theme=radical)
 
+![GitHub Snake](https://raw.githubusercontent.com/Mobin-Thz/Mobin-Thz/output/github-contribution-grid-snake.svg)
 
 ---
 
