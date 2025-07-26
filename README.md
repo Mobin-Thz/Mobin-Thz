@@ -58,5 +58,18 @@ Check out my repos for:
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mobintaherzadeh@gmail.com)
 
 ---
+---
+
+## 🔥 GitHub Stats & Activity
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mobin-Thz&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mobin-Thz&layout=compact&theme=radical)
+
+[![Mobin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mobin-Thz&theme=react-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+![GitHub Snake](https://raw.githubusercontent.com/Mobin-Thz/Mobin-Thz/output/github-contribution-grid-snake.svg)
+
+---
 
 > 
