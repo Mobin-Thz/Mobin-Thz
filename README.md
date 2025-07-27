@@ -40,14 +40,13 @@
 ## 🔥 GitHub Stats & Activity
 
 <p align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=Mobin-Thz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Mobin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mobin-Thz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="800" alt="Mobin's GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img width="350" src="https://streak-stats.demolab.com?user=Mobin-Thz&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Mobin-Thz&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="390" alt="GitHub Streak"/>
   &nbsp;&nbsp;
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mobin-Thz&layout=compact&theme=radical&langs_count=6&hide_progress=false" alt="Top Languages" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mobin-Thz&layout=compact&theme=radical&langs_count=6&h_
 
 
 ---
